@@ -1,0 +1,49 @@
+{
+    "products":[
+        {
+           "id":1001,
+           "title": "Skull 1",
+           "description": "Some info",
+           "price": 2000,
+           "image": "static/images/pic1.png",
+           "availableInventory": 10,
+           "rating": 1
+        },
+        {
+           "id":1002,
+           "title": "skull 2",
+           "description": "Some info",
+           "price": 3000,
+           "image": "static/images/pic2.jpg",
+           "availableInventory": 7,
+           "rating": 3
+        },
+        {
+           "id":1003,
+           "title": "Skull 3",
+           "description": "Some info",
+           "price": 50000,
+           "image": "static/images/pic3.jpg",
+           "availableInventory": 10,
+           "rating": 5
+        },
+        {
+           "id":1004,
+           "title": "Skull 4",
+           "description": "Some info",
+           "price": 5000,
+           "image": "static/images/pic4.jpg",
+           "availableInventory": 8,
+           "rating": 4
+        },
+        {
+           "id":1005,
+           "title": "Skull 5",
+           "description": "Some info",
+           "price": 9000,
+           "image": "static/images/pic5.jpg",
+           "availableInventory": 10,
+           "rating": 3
+        }
+    ]
+}
