@@ -1,6 +1,6 @@
 # webstore
 
-> A Vue.js project
+> A Vue.js webstore linked with firebase(under construction).
 
 ## Build Setup
 
